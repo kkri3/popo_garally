@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/popo_garally/precache-manifest.46c7ec497b80f1bbe216eccc096bd428.js"
+  "/popo_garally/precache-manifest.e8123fa1ca3d8e4ee16ac1e0c8bbf8a7.js"
 );
 
 self.addEventListener('message', (event) => {
